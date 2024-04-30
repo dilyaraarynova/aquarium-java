@@ -1,2 +1,2 @@
 # aquarium_java
-Aquarium display written in Java. 
+The aquarium display, written in Java. Written as the assignment for the Programming Languages class at the university with starter src files provided. 
